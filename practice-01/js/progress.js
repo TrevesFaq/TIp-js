@@ -1,7 +1,7 @@
 "use strict";
 
-const totalTasks = NaN;
-const completedTasks = 0;
+const totalTasks = 7;
+const completedTasks = 2;
 
 if (
   typeof totalTasks !== "number" ||
